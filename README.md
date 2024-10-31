@@ -1,6 +1,8 @@
 # GlobalTech - assignment 02 full-stack application with node.js and react.js
 GlobalTech - assignment 02 full-stack application with node.js and react.js
 
+🧸💬 The sample requirements for creating an application for stock trading with create/update/delete capability. This simple application works as a setup environment and study for testing and communication with a full-stack application and development environment.
+
 <p align="center" width="100%">
     <img width="55%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/28-application%20architechture.png">
     <img width="25%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/kid_30.jpg">
