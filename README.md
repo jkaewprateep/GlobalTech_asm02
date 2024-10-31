@@ -36,9 +36,12 @@ const createLabelValue = ( labelName, OrderNumber, labelText, nDecimal, variable
                 </table></td>
     }
 ```
-
+</br>
+</br>
 🧸💬 There are order numbers for records, stock names, and statistics variables for the specific time interval and vary standard variables for each period. </br>
-
+</br>
+🐑💬 ➰ Dynamic header and reading text possible by reacts and update at client-side scripts where database performs by time triggers and compare function to update the specific value by each record can work with database trigger in the future. </br>
+</br>
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/26-screencapture01.png"> </br>
     <b> Sample screenshots - web upper part </b> </br>
