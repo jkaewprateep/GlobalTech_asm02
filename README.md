@@ -94,6 +94,7 @@ useEffect(() => {
 
 🐑💬 ➰ Communication in Javascript language, you need to find your ```Stringtify!!!``` . </br>
 </br>
+* 🥺💬 I will need to clean codes and compact functions ... that to finish tasks.
 
 ```
 // update record
