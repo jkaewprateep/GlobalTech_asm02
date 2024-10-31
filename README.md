@@ -89,6 +89,26 @@ useEffect(() => {
 
  }, [update, loading, formInput]);
 ```
+</br>
+</br>
+
+🐑💬 ➰ Communication in Javascript language, you need to find your ```Stringtify!!!``` . </br>
+</br>
+
+```
+// update record
+const url = "http://localhost:3060/api/data";
+const request = new Request(url, {
+    method: "POST",
+    headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(selected_recordupdated),
+});
+
+const response1 = await fetch(request);
+```
 
 ---
 
