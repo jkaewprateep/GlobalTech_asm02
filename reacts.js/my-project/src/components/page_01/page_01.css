@@ -1,0 +1,111 @@
+/* tr {
+    display: block;
+    float: left;
+} */
+/* th, td {
+    display: block;
+    text-align: left;
+    padding: 6px;
+    border: 1px solid #ccc;
+} */
+
+/* th, td {
+    text-align: left;
+    padding: 6px;
+    border: 1px solid #ccc;
+} */
+
+/* td {
+    display: block;
+    text-align: left;
+    padding: 6px;
+    border: 1px solid #ccc;
+} */
+
+table, th, td {
+    text-align: left;
+    border: 1px solid;
+    padding: 0px;
+    /* margin-left: -5;
+    margin-right: -5;
+    margin-top: -5;
+    margin-bottom: -5; */
+}
+
+.td_noborder {
+    border: none;
+    /* margin-left: -5;
+    margin-right: -5;
+    margin-top: -5;
+    margin-bottom: -5; */
+    /* height:0; */
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tr_border {
+    border: 1px solid;
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.tr_border_fullwidth {
+    border: 1px solid;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    text-align: center;
+    /* box-sizing: border-box; */
+}
+
+.tr_tablecellwidth {
+    width: 80;
+}
+
+.tr_center {
+    text-align: center;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tr_centerborder {
+    text-align: center;
+    border: 1px solid;
+    margin: 0;
+    padding: 0;
+}
+
+.image_rightalign{
+    float: righ;
+}
+
+.image_hidden{
+    display: none;
+    visibility: hidden;
+}
+
+/* body {
+    background-image: url("../../images/bg-image_2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}   */
+
+.button-add {
+    background-image: url("../../images/down_16x16.png"); /* 16px x 16px */
+    background-color: transparent; /* make the button transparent */
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    background-position: 0px 0px;  /* equivalent to 'top left' */
+    border: none;           /* assuming we don't want any borders */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    height: 16px;           /* make this the size of your image */
+    padding-left: 16px;     /* make text start to the right of the image */
+    vertical-align: middle; /* align the text vertically centered */
+}
+
+.textbox_01 {
+    width: 40px
+}
