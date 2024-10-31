@@ -46,12 +46,18 @@ const createLabelValue = ( labelName, OrderNumber, labelText, nDecimal, variable
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/26-screencapture01.png"> </br>
     <b> Sample screenshots - web upper part </b> </br>
 </p>
-
+</br>
+</br>
+🧸💬 Simple formula display can be used formula generator in the future . </br>
+</br>
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/27-screencapture02.png"> </br>
     <b> Sample screenshots - web lower part </b> </br>
 </p>
-
+</br>
+</br>
+🧸💬 Database MongoDB for high volume capacity and communication services as a microservices application in a development environment. </br>
+</br>
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/27-screencapture03.png"> </br>
     <b> Sample screenshots - database communications </b> </br>
