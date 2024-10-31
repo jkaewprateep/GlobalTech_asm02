@@ -5,7 +5,7 @@ GlobalTech - assignment 02 full-stack application with node.js and react.js
     <img width="55%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/28-application%20architechture.png">
     <img width="25%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/kid_30.jpg">
     <img width="14.82%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/kid_38.jpg"> </br>
-    <b> Sample screenshots - web upper part </b> </br>
+    <b> Sample application - microservices architecture with backend RESTAPI interfaces and reacts state message and client scripts capability </b> </br>
 </p>
 
 
