@@ -5,7 +5,7 @@ GlobalTech - assignment 02 full-stack application with node.js and react.js
 
 🐑💬 ➰ The express server allows for simple web applications with minimum requirements and an adaptive method for integration with high-capacity data records process handling MongoDB and deployment readiness. </br>
 
-🐐💬 There are multiple tasks and we resolved incompatibilities and tools, draw our own UI user control interfaces and active-response function, and displayed visualization value with state message events communication of the react.js for client-side and deployment application on the server at the backend, working as microservices with matching pattern request and response method RestFul API. </br>
+🐐💬 There are multiple tasks and we resolved incompatibilities and tools, drew our own UI user control interfaces and active-response function, and displayed visualization value with state message events communication of the react.js for client-side and deployment application on the server at the backend, working as microservices with matching pattern request and response method RestFul API. </br>
 
 
 <p align="center" width="100%">
@@ -15,6 +15,7 @@ GlobalTech - assignment 02 full-stack application with node.js and react.js
     <b> Sample application - microservices architecture with backend RESTAPI interfaces and reacts state message and client scripts capability </b> </br>
 </p>
 
+🧸💬 The user interface up and down arrows ( <img width="2%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/up.png">, <img width="2%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/down.png"> ) allows users to increase/decrease specific value and edit button allows to modify and update the value with update record mechanism <img width="2%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/down_16x16.png"> .
 
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/26-screencapture01.png"> </br>
