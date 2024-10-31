@@ -62,6 +62,33 @@ const createLabelValue = ( labelName, OrderNumber, labelText, nDecimal, variable
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/27-screencapture03.png"> </br>
     <b> Sample screenshots - database communications </b> </br>
 </p>
+</br>
+</br>
+
+🐐💬 Only one value update at a time and monitoring of status and update ```update, loading, formInput``` by using effects where time triggers only for database communication. </br>
+</br>
+
+```
+useEffect(() => {
+    
+    const time = new Date();
+    time.setSeconds(time.getSeconds() + 30); // 10 minutes timer
+    console.log('Listening (2): ', update, time.getSeconds());
+    
+
+    if (update){
+        fetchDataRecords();
+        setupdate(false);
+        restart(time);
+        window.scrollTo(0, 0);
+    }
+    
+    // update formInput
+    setFormInput(formInput);
+
+
+ }, [update, loading, formInput]);
+```
 
 ---
 
