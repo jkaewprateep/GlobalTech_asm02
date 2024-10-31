@@ -16,6 +16,7 @@ GlobalTech - assignment 02 full-stack application with node.js and react.js
 </p>
 
 🧸💬 The user interface up and down arrows ( <img width="2%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/up.png">, <img width="2%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/down.png"> ) allows users to increase/decrease specific value and edit button allows to modify and update the value with update record mechanism <img width="2%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/down_16x16.png"> .
+🐑💬 ➰ User interface control is built as constant as user experience in user interface control web and application for easy deployment with a single command ```{ createLabelValue( "label_25", record.order, record.amountof_records_04, 0, "amountof_records_04" ) } ``` .  
 
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/26-screencapture01.png"> </br>
