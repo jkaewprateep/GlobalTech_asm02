@@ -37,11 +37,19 @@ const createLabelValue = ( labelName, OrderNumber, labelText, nDecimal, variable
     }
 ```
 
+🧸💬 There are order numbers for records, stock names, and statistics variables for the specific time interval and vary standard variables for each period. </br>
+
 <p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/26-screencapture01.png"> </br>
     <b> Sample screenshots - web upper part </b> </br>
+</p>
+
+<p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/27-screencapture02.png"> </br>
     <b> Sample screenshots - web lower part </b> </br>
+</p>
+
+<p align="center" width="100%">
     <img width="80%" src="https://github.com/jkaewprateep/GlobalTech_asm02/blob/master/27-screencapture03.png"> </br>
     <b> Sample screenshots - database communications </b> </br>
 </p>
